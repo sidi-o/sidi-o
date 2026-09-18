@@ -5,7 +5,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## ⚠️ Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation](https://github.com/sidi-o/Vulneranility-management-program)**
+- **[Vulnerability Management Program Implementation](https://github.com/sidi-o/Vulnerability-management-program)**
 - **[STIGS](https://github.com/sidi-o/STIGS)**
 
 ## 🚨 Threat Hunting and Security Operations
